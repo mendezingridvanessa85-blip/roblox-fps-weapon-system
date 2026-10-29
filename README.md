@@ -1,6 +1,8 @@
 # Roblox FPS Weapon System
 
-A focused Roblox Luau weapon-system portfolio project by Kj52058.
+**Developed by Dogi**
+
+A focused Roblox Luau weapon-system portfolio project.
 
 This repository contains the client, server, and weapon configuration code for a first-person rifle prototype. It is intentionally limited to the authored weapon logic; third-party models, Toolbox assets, maps, and unrelated game systems are not included.
 
