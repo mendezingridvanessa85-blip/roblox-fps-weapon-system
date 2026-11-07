@@ -1,6 +1,7 @@
 # Roblox FPS Weapon System
 
-**Developed by Dogi**
+**Made by Dogi**  
+Roblox accounts: [Carlos837474](https://www.roblox.com/users/profile?username=Carlos837474) and [Kj52058](https://www.roblox.com/users/profile?username=Kj52058)
 
 A focused Roblox Luau weapon-system portfolio project.
 
@@ -19,7 +20,7 @@ This repository contains the client, server, and weapon configuration code for a
 
 ## Project structure
 
-```
+```text
 src/
   client/WeaponClient.client.lua
   server/WeaponService.server.lua
