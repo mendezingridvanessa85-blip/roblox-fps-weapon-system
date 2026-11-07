@@ -1,7 +1,7 @@
 # Roblox FPS Weapon System
 
 **Made by Dogi**  
-Roblox accounts: `Carlos837474` and `Kj52058`
+My two Roblox accounts are `Carlos837474` and `Kj52058`
 
 A focused Roblox Luau weapon-system portfolio project.
 
